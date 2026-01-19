@@ -18,3 +18,4 @@ A trained model capable of classifying aircraft images into "dent" and "crack" c
 A Transformer-based model that generates captions and summaries of images
 
 #### You will be using the Aircraft dataset. The dataset is taken from the here (Original Source): Roboflow Aircraft Dataset Provided by a Roboflow user, License: CC BY 4.
+URL = "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/ZjXM4RKxlBK9__ZjHBLl5A/aircraft-damage-dataset-v1.tar"
